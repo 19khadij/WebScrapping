@@ -1,7 +1,7 @@
 # Web Scraping Using Python
 This Python script demonstrates how to scrape a website, "https://codewithharry.com", using both an API and HTML web scraping with the BeautifulSoup library (bs4).
 
-#Prerequisites
+# Prerequisites
 Before running the script, make sure you have the following libraries installed:
 
 requests: To make HTTP requests and fetch the HTML content.
@@ -9,7 +9,7 @@ beautifulsoup4 (bs4): For parsing and navigating the HTML content.
 You can install these libraries using pip:
 pip install requests beautifulsoup4
 
-#Usage
+# Usage
 Clone this repository to your local machine or download the Python script.
 Ensure you have Python and the required libraries installed.
 Open a terminal or command prompt and navigate to the directory where the code is located.
@@ -25,6 +25,9 @@ HTML Tree Traversal: Various methods are demonstrated for traversing the HTML tr
 
 Scraping Links: The script extracts all the anchor tags (links) from the webpage and prints them.
 
-Customization
+# Customization
 You can modify the url variable to specify the URL of the website you want to scrape. 
 Additionally, you can customize the code to extract specific data or elements of interest from the webpage.
+
+# Author
+Khadija
